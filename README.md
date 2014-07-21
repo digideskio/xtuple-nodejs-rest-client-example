@@ -1,7 +1,8 @@
-xTuple Node ToDo Example Application
-====
+## xTuple Node ToDo Example Application
 
 Node Application to work with [xTuple REST services.](http://github.com/xtuple/xtuple)
+
+## How to Get Started:
 
 ### Create new OAuth2 Client
 
