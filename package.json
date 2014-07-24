@@ -15,8 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/lynnaloo/xtuple-todo-example"
+    "url": "https://www.github.com/xtuple/xtuple-nodejs-rest-client-example"
   },
   "author": "Linda Nichols",
-  "license": "BSD"
+  "license": "Apache"
 }
