@@ -1,4 +1,4 @@
-## xTuple Node ToDo Example Application
+## xTuple Node.js REST ToDo Example Application
 
 Node Application to work with [xTuple REST services.](http://github.com/xtuple/xtuple)
 
@@ -35,3 +35,9 @@ Enter Import Password: 'notasecret'
 
 Open the .env file and change the information to match what was provided
 by the xTuple OAuth 2.0 extension.
+
+### License
+
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+Copyright (c) 2012-2013 xTuple [http://www.xtuple.com/](http://www.xtuple.com/)
