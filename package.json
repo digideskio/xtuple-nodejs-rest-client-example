@@ -1,11 +1,11 @@
 {
-  "name": "xtuple-todo-example",
-  "version": "0.0.4",
+  "name": "xtuple-rest-client-example",
+  "version": "0.0.1",
   "description": "ToDo example for xTuple REST Api",
-  "keywords": "xtuple, rest, api, oauth2, jwt",
+  "keywords": "xtuple, rest, api, oauth2, jwt, express",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.6.2",
+    "body-parser": "1.6.x",
     "ejs": "1.0.x",
     "express": "4.6.x",
     "xtuple-rest-client": "0.0.x"
